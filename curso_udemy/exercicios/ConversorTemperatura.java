@@ -1,5 +1,6 @@
 package exercicios;
 
+
 public class ConversorTemperatura {
     public static void main(String[] args) {
         double celsius = 25.0;

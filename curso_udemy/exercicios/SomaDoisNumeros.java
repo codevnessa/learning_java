@@ -1,5 +1,6 @@
 package exercicios;
 
+
 public class SomaDoisNumeros {
     public static void main(String[] args) {
         int numero1 = 5;

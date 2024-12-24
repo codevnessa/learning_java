@@ -1,5 +1,6 @@
 package exercicios;
 
+
 public class Tabuada {
     public static void main(String[] args) {
         int numero = 5;
