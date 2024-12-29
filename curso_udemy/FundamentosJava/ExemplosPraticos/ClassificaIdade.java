@@ -9,13 +9,10 @@ public class ClassificaIdade {
 
         System.out.print("Digite a idade: ");
 
-        // Verifica se a entrada é um número inteiro válido
         if (scanner.hasNextInt()) {
             idade = scanner.nextInt();
 
-            // Verifica se a idade é um número positivo
             if (idade >= 0) {
-                // Classifica a idade em "Criança", "Adolescente", "Adulto" ou "Idoso".
                 if (idade < 12) {
                     System.out.println("Criança.");
                 } else if (idade < 18) {
