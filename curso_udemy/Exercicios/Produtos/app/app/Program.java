@@ -17,7 +17,11 @@ public class Program {
            
             
             Product product = new Product(name, price);
-            
+
+            product.setPrice(1200);
+            System.out.println("Update price: " + product.getPrice());
+            product.setName("computador");
+            System.out.println("Update name: " + product.getName());
             System.out.println();
             System.out.println("Product data: " + product);
             System.out.println();
