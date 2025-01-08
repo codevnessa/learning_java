@@ -1,3 +1,4 @@
+package FundamentosJava.Metodos;
 import java.util.Scanner;
 
 public class OperadoresLogicos {

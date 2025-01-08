@@ -8,17 +8,10 @@ public class SwitchCase {
 
         // switch case
         switch (diaDaSemana) {
-            case 1:
-                System.out.println("Domingo"); // Executado se diaDaSemana for 1
-                break;
-            case 2:
-                System.out.println("Segunda-feira"); // Executado se diaDaSemana for 2
-                break;
-            case 3:
-                System.out.println("Terça-feira"); // Executado se diaDaSemana for 3
-                break;
-            default:
-                System.out.println("Dia inválido"); // Executado se nenhum caso corresponder
+            case 1 -> System.out.println("Domingo"); // Executado se diaDaSemana for 1
+            case 2 -> System.out.println("Segunda-feira"); // Executado se diaDaSemana for 2
+            case 3 -> System.out.println("Terça-feira"); // Executado se diaDaSemana for 3
+            default -> System.out.println("Dia inválido"); // Executado se nenhum caso corresponder
         }
     }
 }

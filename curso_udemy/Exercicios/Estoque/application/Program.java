@@ -1,9 +1,8 @@
 package application;
 
+import entities.Product;
 import java.util.Locale;
 import java.util.Scanner;
-
-import entities.Product;
 
 public class Program {
     public static void main(String[] args) {
@@ -37,6 +36,8 @@ public class Program {
 
         System.out.println();
         System.out.println("Update data: \n"+product);
-    }
 
+    sc.close();
+        
+    }
 }

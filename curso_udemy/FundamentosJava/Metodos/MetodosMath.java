@@ -1,4 +1,4 @@
-
+package FundamentosJava.Metodos;
 public class MetodosMath {
     public static void main(String[] args) {
         // Exemplos de uso dos métodos da classe Math
