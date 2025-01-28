@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/AlturaMedia/AlturaMedia.iml" filepath="$PROJECT_DIR$/Exercicios/AlturaMedia/AlturaMedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/BancoConta/BancoConta.iml" filepath="$PROJECT_DIR$/Exercicios/BancoConta/BancoConta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ContaBancaria/ContaBancaria.iml" filepath="$PROJECT_DIR$/Exercicios/ContaBancaria/ContaBancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/CotacaoDolar/CotacaoDolar.iml" filepath="$PROJECT_DIR$/Exercicios/CotacaoDolar/CotacaoDolar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FundamentosJava/FundamentosJava.iml" filepath="$PROJECT_DIR$/FundamentosJava/FundamentosJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ProdutosA/ProdutosA.iml" filepath="$PROJECT_DIR$/Exercicios/ProdutosA/ProdutosA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ValoresLeitura/ValoresLeitura.iml" filepath="$PROJECT_DIR$/Exercicios/ValoresLeitura/ValoresLeitura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/ContaBancaria/banco/banco.iml" filepath="$PROJECT_DIR$/Exercicios/ContaBancaria/banco/banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_udemy.iml" filepath="$PROJECT_DIR$/curso_udemy.iml" />
+    </modules>
+  </component>
+</project>

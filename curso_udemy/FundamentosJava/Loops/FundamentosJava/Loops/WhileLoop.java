@@ -1,3 +1,5 @@
+package FundamentosJava.Loops;
+
 // Explicação do conteúdo:
 // O loop while executa um bloco de código repetidamente enquanto uma condição for verdadeira.
 

@@ -1,3 +1,5 @@
+package FundamentosJava.Loops;
+
 // Explicação do conteúdo:
 // O loop for é usado para repetir um bloco de código um número específico de vezes. Ele combina inicialização, condição e incremento em uma única linha.
 
